@@ -565,6 +565,7 @@ body{
 .copyright{
   margin-top: 1rem;
   color: var(--generalWhite--);
+  margin-left:2.5rem;
 
 }
 
